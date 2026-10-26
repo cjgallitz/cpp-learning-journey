@@ -14,13 +14,11 @@ My goal is to:
 - Earn a C++ certification
 - Create a strong GitHub portfolio
 
-📚 Learning Resources Tutorials
-- LearnCpp
-- C++ Documentation
-- YouTube Tutorials
-Certification Resources
-- OpenEDG C++ Essentials
-- C++ Institute Learning Materials
+📚 My Learning Materials
+- LearnCpp for Learning Resources (Varies if I want to watch youtube instead)
+- OpenEDG C++ Certifications
+- C++ Institute Cerifications
+- Microsoft Learn + GitHub Certifications
 
 🗺️ Learning Roadmap
 
@@ -53,32 +51,19 @@ Sets
 Sorting
 Searching
 
-📁 Repository Structure
-cpp-learning-journey
-│
-├── 01-fundamentals
-├── 02-functions
-├── 03-arrays
-├── 04-pointers
-├── 05-file-handling
-├── 06-oop
-├── 07-stl
-├── mini-projects
-└── README.md
 
-🏆 Projects
-Beginner Projects
-Calculator
-Number Guessing Game
-Unit Converter
-Intermediate Projects
-Student Management System
-Expense Tracker
-Contact Manager
-Advanced Projects
-Library Management System
-Banking System
-Inventory System
+🏆 Projects:
+Calculator, 
+Number Guessing Game, 
+Unit Converter, 
+Intermediate Projects, 
+Student Management System, 
+Expense Tracker, 
+Contact Manager, 
+Advanced Projects, 
+Library Management System, 
+Banking System, 
+Inventory System, 
 
 📈 Progress Log
 Date	Topic	Status
