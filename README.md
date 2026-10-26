@@ -3,7 +3,7 @@ Learning C++ From 0 to Certified.
 
 This repository documents my journey of learning C++ from scratch. It serves as my personal learning log, practice archive, and project portfolio as I work toward becoming proficient in C++ and preparing for future certifications.
 
-👨‍💻 About Me
+👨‍💻 
 Hi, I'm Carl John Galleto, a Computer Engineering student passionate about software development and problem-solving.
 
 My goal is to:
